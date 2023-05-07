@@ -1,10 +1,18 @@
-<img src="./assets/screens.jpg" width="600" img align="center" alt="Banner about Chris Munch"/>
+<img src="./assets/screens.jpg" width="600" align="center" alt="Banner about Chris Munch"/>
 
 
 ### Hi! 👋
 
 
 **I'm Chris, a Machine Learning enthusiast currently seeking to change careers into Machine Learning / Data Science.**
+
+Over the past year and a half or so, I have been engrossed in learning as much as I can about Machine Learning and Data Science, watching  all kinds of videos and reading many articles on the subject. I liked the Kaggle classes, and I *really* liked the Kaggle competitions, in particular the Tabular Playground Series. Eventually, I had to pull myself away from this and start working on a project for my portfolio, which is what you see in the repository below. It was really fun, and I learned a lot.
+
+My resume is also below if anybody has any leads on a job or tips they could share. I'm primarily looking for a remote job.
+
+I'm really good at diving in and figuring things out and making it all work. I've never been, though, much of a memorizer of syntax and specific details that can be easily found online, so I do have some trepidation about the interview process. I'm hoping that my project and life experience will be enough to get me in the door somewhere.
+
+##### Background
 
 <img align="right"  width="250" height="250" src="./assets/plm-microscope.jpg">
 
@@ -18,19 +26,10 @@ I even became an independent software developer at one point, designing and sell
 
 I've pretty much done everything in the industry - set up a lab from scratch and take it through an onsite audit and accreditation, set up and manage quality systems, train people, manage people, fire people, etc...
 
-
-##### Machine Learning
-
-And then I discovered Machine Learning and Data Science. I was amazed at how much learning material was online. It looked awesome, and it looked like a great match with my background - a bit of coding, databases, math, statistics, and science. I was being called, and I had to answer.
+And then I discovered Machine Learning and Data Sciencea about a year and a half ago. I was amazed at how much learning material was online. It looked awesome, and it looked like a great match with my background - a bit of coding, databases, math, statistics, and science. I was being called, and I had to answer.
 
 
-Over the past year and a half or so, I have been engrossed in learning as much as I can about Machine Learning and Data Science, watching  all kinds of videos and reading many articles on the subject. I liked the Kaggle classes, and I *really* liked the Kaggle competitions, in particular the Tabular Playground Series. Eventually, I had to pull myself away from this and start working on a project for my portfolio, which is what you see in the repository below. It was really fun, and I learned a lot.
 
-
-My resume is also below if anybody has any leads on a job or tips they could share. I'm primarily looking for a remote job.
-
-
-I'm really good at diving in and figuring things out and making it all work. I've never been, though, much of a memorizer of syntax and specific details that can be easily found online, so I do have some trepidation about the interview process. I'm hoping that my project and life experience will be enough to get me in the door somewhere.
 
 
 ### About Me
