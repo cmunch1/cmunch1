@@ -12,7 +12,7 @@ My resume is also below if anybody has any leads on a job or tips they could sha
 
 I'm really good at diving in and figuring things out and making it all work. I've never been, though, much of a memorizer of syntax and specific details that can be easily found online, so I do have some trepidation about the interview process. I'm hoping that my project and life experience will be enough to get me in the door somewhere.
 
-##### Background
+### Background
 
 <img align="right"  width="250" height="250" src="./assets/plm-microscope.jpg">
 
@@ -30,15 +30,13 @@ And then I discovered Machine Learning and Data Sciencea about a year and a half
 
 
 
-
-
 ### About Me
 
 
 Married, 2 daughters, 2 dogs, 2 cats.
 
 
-Hobbies: reading, travel, an occasional game of Overwatch, chauffeur for my kids. Tried writing fiction - self-published a couple of novels (one bad, one mediocre), but I eventually realized that I don't write fast enough to make money at it (even well established middle-tier authors often make less than $15K-$25K per novel.)
+Hobbies: reading, travel, an occasional game of Overwatch, chauffeur for my kids. Tried writing fiction - self-published a couple of novels (one bad, one mediocre), but I eventually realized that I would never write fast enough to make money at it (even well established middle-tier authors often make less than $15K-$25K per novel.)
 
 
 Interests: Science, Technology, Science Fiction, Fantasy, Transhumanism, making money, etc... (classic nerd stuff)
