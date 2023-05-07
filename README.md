@@ -6,7 +6,7 @@
 
 I'm Chris, a Machine Learning enthusiast currently seeking to change careers into Machine Learning / Data Science.
 
-<img align="right"  width="300" height="300" src="./assets/plm-microscope.jpg">
+<img align="right"  width="250" height="250" src="./assets/plm-microscope.jpg">
 
 I have a BS in Physics, but most of my career has been in the commercial lab testing industry, analyzing asbestos and mold samples with polarized light microscopy and electron microscopy. 
 
