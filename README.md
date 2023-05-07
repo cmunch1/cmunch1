@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Chris Munch>
+<img src="/assets/screens.jpg" alt="Banner about Chris Munch>
 
 
 ### Hi! 👋
