@@ -1,4 +1,4 @@
-<img src="./assets/screens.jpg" width="800" alt="Banner about Chris Munch"/>
+<img src="./assets/screens.jpg" width="600" img align="center" alt="Banner about Chris Munch"/>
 
 
 ### Hi! 👋
