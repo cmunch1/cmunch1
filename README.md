@@ -19,6 +19,8 @@ I even became an independent software developer at one point, designing and sell
 I've pretty much done everything in the industry - set up a lab from scratch and take it through an onsite audit and accreditation, set up and manage quality systems, train people, manage people, fire people, etc...
 
 
+*Machine Learning*
+
 And then I discovered Machine Learning and Data Science. I was amazed at how much learning material was online. It looked awesome, and it looked like a great match with my background - a bit of coding, databases, math, statistics, and science. I was being called, and I had to answer.
 
 
