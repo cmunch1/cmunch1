@@ -4,7 +4,7 @@
 ### Hi! 👋
 
 
-I'm Chris, a Machine Learning enthusiast currently seeking to change careers into Machine Learning / Data Science.
+**I'm Chris, a Machine Learning enthusiast currently seeking to change careers into Machine Learning / Data Science.**
 
 <img align="right"  width="250" height="250" src="./assets/plm-microscope.jpg">
 
