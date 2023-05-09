@@ -1,6 +1,3 @@
-<img src="./assets/screens.jpg" width="600" align="center" alt="Banner about Chris Munch"/>
-
-
 ### Hi! 👋
 
 
@@ -8,7 +5,7 @@
 
 Over the past year and a half or so, I have been engrossed in learning as much as I can about Machine Learning and Data Science, watching  all kinds of videos and reading many articles on the subject. I liked the Kaggle classes, and I *really* liked the Kaggle competitions, in particular the Tabular Playground Series. Eventually, I had to pull myself away from this and start working on a project for my portfolio, which is what you see in the repository below. It was really fun, and I learned a lot.
 
-My resume is also below if anybody has any leads on a job or tips they could share. I'm primarily looking for a remote job.
+Please let me know if anybody has any leads on a job or tips they could share. I'm primarily looking for a remote job. You can see my resume at [LinkedIn](https://www.linkedin.com/in/chris-munch/).
 
 I'm really good at diving in and figuring things out and making it all work. I've never been, though, much of a memorizer of syntax and specific details that can be easily found online, so I do have some trepidation about the interview process. I'm hoping that my project and life experience will be enough to get me in the door somewhere.
 
