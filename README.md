@@ -1,7 +1,7 @@
 ### Hi! 👋
 
 
-**I'm Chris, a Machine Learning enthusiast currently seeking to change careers into Machine Learning / Data Science.**
+**I'm Chris, a data analysis enthusiast currently seeking to change careers into Machine Learning / Data Science.**
 
 Over the past year and a half or so, I have been engrossed in learning as much as I can about Machine Learning and Data Science, watching  all kinds of videos and reading many articles on the subject. I liked the Kaggle classes, and I *really* liked the Kaggle competitions, in particular the Tabular Playground Series. Eventually, I had to pull myself away from this and start working on a project for my portfolio, which is what you see in the repository below. It was really fun, and I learned a lot.
 
